@@ -1,6 +1,8 @@
-# Getting started
+This repository contains replication code for the CCES simulations in the paper [Active Matrix Factorization for Surveys](https://arxiv.org/abs/1902.07634).
 
-Set up python virtualenv and install packages:
+Simulations are written in Python. We highly recommend using a virtual environment.
+
+To set up python virtualenv and install packages:
 
     virtualenv -p python3 venv
     source venv/bin/activate
