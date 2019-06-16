@@ -1,0 +1,39 @@
+,question,text
+0,CC16_302,National Economy
+1,CC16_303,Past year household income
+2,CC16_304,Next year household income
+3,CC16_307,Police make R feel safe
+4,CC16_320a,Approve of Job - Obama
+5,CC16_320b,Approve of Job - Congress
+6,CC16_320c,Approve of Job - Supreme Court
+7,CC16_330a,Gun Control - Background checks
+8,CC16_330b,Gun Control - Gun owner privacy
+9,CC16_330d,Gun Control - Ban assault rifles
+10,CC16_330e,Gun Control - Easier concealed-carry
+11,CC16_331_1,Immigration - Legalize law-abiding
+12,CC16_331_2,Immigration - Increase border patrols
+13,CC16_331_3,Immigration - Legalize Dreamers
+14,CC16_331_7,Immigration - Deport illegal immigrants
+15,CC16_331_9,Immigration - None of these
+16,CC16_332a,Abortion - Always allow
+17,CC16_332b,"Abortion - Only in case of rape, incest"
+18,CC16_332c,Abortion - Ban after 20th week
+19,CC16_332d,Abortion - Decline insurance coverage
+20,CC16_332e,Abortion - No federal funds
+21,CC16_332f,Abortion - Always illegal
+22,CC16_333a,Environment - EPA regulates carbon
+23,CC16_333b,Environment - Raise fuel efficiency
+24,CC16_333c,Environment - Require renewables
+25,CC16_333d,Environment - Clean Air and Water Act
+26,CC16_334a,Crime - Eliminate mandatory minimums
+27,CC16_334b,Crime - Body cameras on police
+28,CC16_334c,Crime - More police
+29,CC16_334d,Crime - More prison for felons
+30,CC16_335,Gay Marriage
+31,CC16_351B,Congress - TPP
+32,CC16_351E,Congress - Education reform
+33,CC16_351F,Congress - Transportation funding
+34,CC16_351G,Congress - Iran Sanctions Act
+35,CC16_351H,Congress - Medicare cost reform
+36,CC16_351I,Congress - Repeal ACA
+37,CC16_351K,Congress - Raise minimum wage

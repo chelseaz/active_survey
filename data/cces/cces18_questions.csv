@@ -1,0 +1,43 @@
+,question,text
+0,CC18_301,National Economy
+1,CC18_302,Past year household income
+2,CC18_308a,Job approval -- President Trump
+3,CC18_308b,Job approval -- The U.S. Congress
+4,CC18_308c,Job approval -- The U.S. Supreme Court
+5,CC18_320a,"Gun Control -- Background checks for all sales, including at gun shows and over the Internet"
+6,CC18_320c,Gun Control -- Ban assault rifles
+7,CC18_320d,Gun Control -- Make it easier for people to obtain a concealed-carry gun permit
+8,CC18_321a,Abortion -- Always allow a woman to obtain an abortion as a matter of choice
+9,CC18_321b,"Abortion -- Permit abortion ONLY in case of rape, incest or when the woman's life is in danger"
+10,CC18_321c,Abortion -- Ban abortions after the 20th week of pregnancy
+11,CC18_321d,Abortion -- Allow employers to decline coverage of abortions in insurance plans
+12,CC18_321e,Abortion -- Prohibit the expenditure of funds authorized or appropriated by federal law for any abortion.
+13,CC18_321f,Abortion -- Make abortions illegal in all circumstances
+14,CC18_322a,"Immigration -- Increase spending on border security by $25 billion, including building a wall between the U.S. and Mexico."
+15,CC18_322b,Immigration -- Provide legal status to children of immigrants who are already in the United States and were brought to the United States by their parents. Provide these children the option of citizenship in 10 years if they meet citizenship requirements an
+16,CC18_322c_new,Immigration -- Reduce legal immigration by eliminating the visa lottery and ending family-based migration.
+17,CC18_322d_new,"Immigration -- Grant legal status to DACA children, spend $25 billion to build the border wall, and reduce legal immigration by eliminating the visa lottery and ending family-based migration."
+18,CC18_322c,Immigration -- Withhold federal funds from any local police department that does not report to the federal government anyone they identify as an illegal immigrant.
+19,CC18_322f,Immigration -- Send to prison any person who has been deported from the United States and reenters the United States.
+20,CC18_325a,Taxes -- Cut the Corporate Income Tax rate from 39 percent to 21 percent.
+21,CC18_325b,"Taxes -- Reduce the mortgage interest deduction.  Allow people to deduct the interest on no more than $500,000 of mortgage debt. The previous limit was $1 million."
+22,CC18_325c,"Taxes -- Limit the amount of state and local taxes that can be deducted to $10,000 (previously there was no limit)."
+23,CC18_325d,"Taxes -- Increase the standard deduction on federal income taxes from $12,000 to $25,000."
+24,CC18_325e_new,"Taxes -- Reduce the income tax rate for households earning less than $500,000 by 3%"
+25,CC18_325f_new,"Taxes -- Reduce the income tax rate for households earning more than $500,000 by 3 percent (from 40 to 37 percent)."
+26,CC18_326,Tax Bill
+27,CC18_327a,Health Care -- Provide Medicare for all Americans.
+28,CC18_327c,Health Care -- Repeal the entire Affordable Care Act.
+29,CC18_327d,Health Care -- Repeal only the part of the Affordable Care Act that requires that most individuals have health insurance and that larger employers cover their employees
+30,CC18_327e,"Health Care -- Partially repeal the Affordable Care Act.  This would (1) repeal individual and employer mandates, (2) cut Medicaid payments by 25 percent, and (3) reduce taxes on expensive health plans, known as Cadillac health plans."
+31,CC18_328b,Roll Call Votes -- Appoint Neil Gorsuch to the Supreme Court of the United States.
+32,CC18_328d,Roll Call Votes -- Require that the President get approval from Congress to ease any existing sanctions on Russia.
+33,CC18_328e,Roll Call Votes -- Impose sanctions on countries and firms doing business with North Korea. Increase President's authority to impose sanctions if North Korea violates U.N. Security Council resolutions regarding that country.
+34,CC18_328f,Roll Call Votes -- Appoint Brett Kavanaugh to the Supreme Court of the United States.
+35,CC18_331a,Trade policy -- $50 billion worth of tariffs on goods imported from China
+36,CC18_331b,"Trade policy -- 25% tariffs on imported steel and 10% on imported aluminum, EXCEPT from Canada, Europe and Mexico."
+37,CC18_331c,"Trade policy -- 25% tariffs on imported steel and 10% on imported aluminum, INCLUDING from Canada, Europe and Mexico."
+38,CC18_332a,Executive Orders -- Recognize Jerusalem as the capital of Israel and move the U.S. embassy from Tel Aviv to Jerusalem.
+39,CC18_332b,Executive Orders -- Allow the construction of the Keystone XL pipeline.
+40,CC18_332c,Executive Orders -- Withdraw the United States from the Paris Climate Agreement.
+41,CC18_332e,"Executive Orders -- Withdraw the United States from the Trans-Pacific Partnership trade agreement, a free trade agreement that included the U.S., Japan, Australia, Vietnam, Canada, Chile, others."

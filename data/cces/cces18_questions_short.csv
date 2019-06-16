@@ -1,0 +1,43 @@
+,question,text
+0,CC18_301,National Economy
+1,CC18_302,Past year household income
+2,CC18_308a,Job approval - Trump
+3,CC18_308b,Job approval - Congress
+4,CC18_308c,Job approval - Supreme Court
+5,CC18_320a,Gun Control - Background checks
+6,CC18_320c,Gun Control - Ban assault rifles
+7,CC18_320d,Gun Control - Easier concealed-carry
+8,CC18_321a,Abortion - Always allow
+9,CC18_321b,"Abortion - Only in case of rape, incest"
+10,CC18_321c,Abortion - Ban after 20th week
+11,CC18_321d,Abortion - Decline insurance coverage
+12,CC18_321e,Abortion - No federal funds
+13,CC18_321f,Abortion - Always illegal
+14,CC18_322a,Immigration - Border wall
+15,CC18_322b,Immigration - DACA
+16,CC18_322c_new,"Immigration - End visa lottery, family-based"
+17,CC18_322d_new,Immigration - All of above
+18,CC18_322c,Immigration - Local police cooperation
+19,CC18_322f,Immigration - Imprison previous deportees
+20,CC18_325a,"Taxes - Cut corporate rate to 21%"
+21,CC18_325b,Taxes - Reduce mortgage interest deduction
+22,CC18_325c,Taxes - Limit state and local deduction
+23,CC18_325d,Taxes - Increase standard deduction
+24,CC18_325e_new,"Taxes - Reduce rate for <$500k"
+25,CC18_325f_new,"Taxes - Reduce rate for >$500k"
+26,CC18_326,Tax Bill
+27,CC18_327a,Health Care - Medicare for all
+28,CC18_327c,Health Care - Repeal entire ACA
+29,CC18_327d,Health Care - Repeal mandates only
+30,CC18_327e,Health Care - Partially repeal ACA
+31,CC18_328b,Roll Call - Appoint Neil Gorsuch
+32,CC18_328d,Roll Call - Limit pres. sanction power
+33,CC18_328e,Roll Call - North Korea sanctions
+34,CC18_328f,Roll Call - Appoint Brett Kavanaugh
+35,CC18_331a,Trade - China tariffs
+36,CC18_331b,"Trade - Some steel/aluminum tariffs"
+37,CC18_331c,"Trade - Uniform steel/aluminum tariffs"
+38,CC18_332a,Exec Orders - Make Jerusalem capital
+39,CC18_332b,Exec Orders - Allow Keystone XL
+40,CC18_332c,Exec Orders - Withdraw from Paris accord
+41,CC18_332e,Exec Orders - Withdraw from TPP

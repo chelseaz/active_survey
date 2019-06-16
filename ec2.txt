@@ -1,0 +1,25 @@
+Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0080e4c5bc078760e
+
+SSH into `ec2-user@[public-ip]` and run:
+
+    sudo yum update
+    sudo yum install git python36 python36-devel gcc gcc-c++
+
+Set up SSH keys via `ssh-keygen`. 
+Add the output of `cat ~/.ssh/id_rsa.pub` to the deploy keys of this repo.
+Clone this repo, cd into it and run:
+
+    virtualenv -p python3 venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+
+Remember to run any simulations in screen, tmux, etc.
+
+
+Combine results and sim objects from different instances:
+
+from common import transfer_results, transfer_objects
+transfer_results('cces16-sim-results-random.csv', 'cces16-sim-results.csv')
+transfer_objects('cces16-sim-objects-random.pkl', 'cces16-sim-objects.pkl')
+transfer_results('cces16-sim-results-rank4.csv', 'cces16-sim-results.csv')
+transfer_objects('cces16-sim-objects-rank4.pkl', 'cces16-sim-objects.pkl')
