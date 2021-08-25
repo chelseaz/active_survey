@@ -14,6 +14,6 @@ scipy==1.2.1
 seaborn==0.8.1
 six==1.11.0
 tensorboard==1.12.1
-tensorflow==1.12.1
+tensorflow==2.5.1
 
 git+git://github.com/chelseaz/fancyimpute@softimpute
